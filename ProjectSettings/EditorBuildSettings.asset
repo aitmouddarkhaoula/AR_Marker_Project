@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AR_Marker.unity
     guid: 1bde88d0a74608a4dbcf00e510a4f54b
+  - enabled: 0
+    path: Assets/_Games/PaintingTest/Scene/AR_Painting.unity
+    guid: c3e84867b620ca64e82e8d9668c5f0c9
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
